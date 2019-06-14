@@ -1,0 +1,19 @@
+.mdb-color.lighten-3 {
+    background-color: #929fba !important;
+}
+footer.page-footer {
+    bottom: 0;
+    color: #fff;
+}
+.font-small {
+    font-size: .9rem;
+}
+.mdb-color {
+    background-color: #45526e !important;
+}
+.pt-4, .py-4 {
+    padding-top: 1.5rem !important;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
